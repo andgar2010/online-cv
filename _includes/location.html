@@ -1,0 +1,19 @@
+{% assign locations = site.data.data.sidebar.locations %}
+{% if locations %}
+<div class="languages-container container-block">
+
+  <h2 class="container-block-title">
+    HQ
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    {%for location in locations %}
+    <li>
+      {{ location.idiom }}
+      <span class="lang-desc">{{ location.level }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
