@@ -30,8 +30,7 @@ sidebar:
       - idiom: 🇨🇴 Colombia
         level: 1990-2018
      
-    languages:
-      
+    languages:      
       - idiom: 🇨🇴 <i class="fas fa-sign-language"></i> LSC (Lengua de Señas Colombiana)
         level: Nativa
         
@@ -98,12 +97,14 @@ highlights:
       company: 📈 SENA Centro Electricidad, Electrónica y Telecomunicaciones – Regional Distrito Capital., 🇨🇴 Bogotá D.C., Colombia
       details: |
         Proyecto: SCHEDUS - Sistema de organización y asignación de horario en Sena CEET.
+            
             - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB. 
+            
             - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.           
-            - 👨‍💼 2 Desarrolladores
+            
             Tecnologías:
 
-          - 👨‍💼 Team of 8 developers + open source devs
+          - 👨‍💼 Equipo de 2 desarrolladores + open source devs
           - 🐳 Docker
           - 🔬 Microservices
           - 🔥 Firebase
