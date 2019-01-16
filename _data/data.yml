@@ -101,8 +101,7 @@ highlights:
             - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB. 
             - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.           
             - 👨‍💼 2 Desarrolladores
-       
-       Tecnologías:
+            Tecnologías:
             - Apache,
             - MariaDB,
             - 🐘 PHP  MVC/API,
@@ -121,15 +120,13 @@ highlights:
             - PHPMailer,
             - DataTables  
             - 🐢 node.js
-      Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
-          
+            Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
       gallery:
         - image: pitchxo.jpg
         - image: pitchxo2.jpg
         - image: bits.jpg
         - image: pitchxo-event1.jpg
         - image: pitchxo-event2.jpg
-
     - slug: spacemages
       role: Game Developer, Founder
       time: 2017 - Present
@@ -203,7 +200,7 @@ experiences:
       time: Desde diciembre de 2012 hasta enero de 2014, regreso desde marzo de 2014 – julio de 2015, Nuevamente regreso desde agosto de 2016 – abril de 2017.
       company: <i class="fab fa-apple"></i> 🏢 Freelance, 🇨🇴 Colombia
       
-      - slug: pitchxo
+    - slug: pitchxo
       role: Founder, CTO
       time: 2014 - Present
       company: 📈 pitchXO, 🇭🇰 Hong Kong
