@@ -65,31 +65,31 @@ career-profile:
       Positions I'm interested in : CTO, VP of Engineering, Chief Architect, Director of Cloud Infrastructure, VP of Product Engineering
 
 education:
-    # - degree: MSc in Computer Science
-    #   university: University of London
-    #   time: 2011 - 2012
-    #   details: |
-    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #     pretium quis, sem.
+     - degree: MSc in Computer Science
+       university: University of London
+       time: 2011 - 2012
+       details: |
+         Describe your study here lorem ipsum dolor sit amet, consectetuer
+         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+         sociis natoque penatibus et magnis dis parturient montes, nascetur
+         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+         pretium quis, sem.
 
-    #       - Bullet point
-    #       - Bullet point
+           - Bullet point
+           - Bullet point
 
-    # - degree: BSc in Applied Mathematics
-    #   university: Bristol University
-    #   time: 2007 - 2011
-    #   details: |
-    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #     pretium quis, sem.
+     - degree: BSc in Applied Mathematics
+       university: Bristol University
+       time: 2007 - 2011
+       details: |
+         Describe your study here lorem ipsum dolor sit amet, consectetuer
+         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+         sociis natoque penatibus et magnis dis parturient montes, nascetur
+         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+         pretium quis, sem.
 
-    #       - Bullet point
-    #       - Bullet point
+           - Bullet point
+           - Bullet point
 
 highlights:
     - slug: sena
@@ -102,6 +102,19 @@ highlights:
             - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.           
             - 👨‍💼 2 Desarrolladores
             Tecnologías:
+
+          - 👨‍💼 Team of 8 developers + open source devs
+          - 🐳 Docker
+          - 🔬 Microservices
+          - 🔥 Firebase
+          - 🔸 Haxe
+          - 🍏 Objective C
+          - ☕️ Java
+          - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
+          - ⚡ SWF Transpilation
+          - 🐿 HTML5 / Webpack
+          - 📱 Mobile Targets
+          - 🐘 PHP
             - Apache,
             - MariaDB,
             - 🐘 PHP  MVC/API,
