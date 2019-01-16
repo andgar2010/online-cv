@@ -1,0 +1,5 @@
+{% for gallery in highlight.gallery %}
+  {% if gallery.image %}
+    <img class="gallery" src="{{ site.baseurl }}/assets/images/{{ gallery.image }}" data-video="{{gallery.video}}" data-gallery="{{highlight.slug}}" alt="{{gallery.caption}}" onClick="openGallery({{ forloop.index }}, '{{highlight.slug}}')" />
+  {% endif %}
+{% endfor %}
