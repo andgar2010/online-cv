@@ -7,194 +7,390 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Andrés F. García
+    tagline: Tecnólogo en Análisis y desarrollo en Sistema de Infomación (ADSI) en SENA
+      Técnico en mantenimiento de computadores (PC & Apple) y celulares | Editor Video | Traductor LSC (Lengua de Señas Colombiana) | Vlogger
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
+    email: info@tech-andgar.tk
+    phone: +57 317 332 3476 Solo Texto
+    website: github.com/andgar2010 #do not add http://
+    linkedin: techandgar
+    angellist: # Number/Username, e.g. 123456/alandoe
+    github: andgar2010
+    gitlab: # Number/Username, e.g. 123456/alandoe
+    bitbucket: # Number/Username, e.g. 123456/alandoe
+    twitter: '@andgar2010'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: # Number/Username, e.g. 123456/alandoe
     goodreads: # Number-Username, e.g. 123456-alandoe
 
+    locations:
+      - idiom: 🇨🇴 Colombia
+        level: 1990-2018
+     
     languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      
+      - idiom: 🇨🇴 <i class="fas fa-sign-language"></i> LSC (Lengua de Señas Colombiana)
+        level: Nativa
+        
+      - idiom: 🇺🇸 <i class="fas fa-sign-language"></i> ASL (Lengua de Señas Estadounidense)
+        level: Bueno
+      
+      - idiom: 🇪🇸 ✍️ Spanish
+        level: Bueno
+            
+      - idiom: 🇺🇸 ✍️ English
+        level: leído (Compresión técnica) y escrito (Básica)
 
     interests:
-      - item: Climbing
+      - item: 🚣 SUP Marathons
+        link: "https://sup.girlonsamui.com"
+
+      - item: 🏄 Wakeboarding
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: 🖥 Making
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I have been working with startups in all possible industries for the past 15 years.
+      From humble beginnings in eSports communities, to design agencies, banking, mobile gaming, travel tech, fintech and finally SaaS platforms.
 
-      Second paragraph if required.
+      I'm currently based on 🏝 Koh Samui, and am exclusively interested in 🖥 remote-only positions.
+
+      Positions I'm interested in : CTO, VP of Engineering, Chief Architect, Director of Cloud Infrastructure, VP of Product Engineering
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    # - degree: MSc in Computer Science
+    #   university: University of London
+    #   time: 2011 - 2012
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+
+    #       - Bullet point
+    #       - Bullet point
+
+    # - degree: BSc in Applied Mathematics
+    #   university: Bristol University
+    #   time: 2007 - 2011
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+
+    #       - Bullet point
+    #       - Bullet point
+
+highlights:
+    - slug: sena
+      role: Tecnólogo Análisis Y Desarrollo de Sistemas de Información (Analista/Desarrollador Software Junior).
+      time: Desde julio de 2018 – 14 diciembre de 2018.
+      company: 📈 SENA Centro Electricidad, Electrónica y Telecomunicaciones – Regional Distrito Capital., 🇨🇴 Bogotá D.C., Colombia
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Proyecto: SCHEDUS - Sistema de organización y asignación de horario en Sena CEET.
+            - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB. 
+            - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.           
+            - 👨‍💼 2 Desarrolladores
+       
+       Tecnologías:
+            - Apache,
+            - MariaDB,
+            - 🐘 PHP  MVC/API,
+            - JavaScript,
+            - jQuery,
+            - CoreUI,
+            - Bootstrap 4,
+            - Node.js,
+            - Yarn,
+            - Composer,
+            - Unit Testing,
+            - Browser Testing,
+            - Web Design,
+            - Katalon,
+            - Git,
+            - PHPMailer,
+            - DataTables  
+            - 🐢 node.js
+      Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
+          
+      gallery:
+        - image: pitchxo.jpg
+        - image: pitchxo2.jpg
+        - image: bits.jpg
+        - image: pitchxo-event1.jpg
+        - image: pitchxo-event2.jpg
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - slug: spacemages
+      role: Game Developer, Founder
+      time: 2017 - Present
+      company: 👾 Space Mages, 🇹🇭 Koh Samui
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Created a whole cloud-based automation pipeline porting a massive ⚡ SWF based codebase into Haxe ( HTML5, Native, Mobile ) compatible code, that was then automatically committed to the main repository based on compilation tests. Work on this ranged from SWF bytecode transpilation to AWS Batch processing within thousands of simultaneous Docker containers.
 
-          - Bullet point
-          - Bullet point
+          - 👨‍💼 Team of 8 developers + open source devs
+          - 🐳 Docker
+          - 🔬 Microservices
+          - 🔥 Firebase
+          - 🔸 Haxe
+          - 🍏 Objective C
+          - ☕️ Java
+          - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
+          - ⚡ SWF Transpilation
+          - 🐿 HTML5 / Webpack
+          - 📱 Mobile Targets
+          - 🐘 PHP
+      gallery:
+        - image: animaljam.jpg
+        - image: doodpuzzle.jpg
+        - image: lambda.gif
+
+    - slug: everbread
+      role: Head Integration Engineer & Enterprise Architect
+      time: 2009 - 2012
+      company: ✈️ Everbread, 🇬🇧 London
+      details: |
+        Right hand of the CTO. Built an ITA competitor ( acquired by Google, 5 years ) within 9 months. Remote teams, APAC clients, Enterprise Architecture, Travel Tech.
+
+          - 👨‍💼 Team of 10-25 Developers, 30 Staff
+          - 🐨 Atlassian Suite
+          - 🐍 Python
+          - 🐘 PHP
+      gallery:
+        - image: flydini.png
+        - image: everbread1.jpg
+        - image: haystack.jpg
+          video: https://player.vimeo.com/video/25514964
+
+    - slug: esnation
+      role: CTO, Founder
+      time: 2003 - 2009
+      company: 🕹 ESNation A/S, 🇩🇰 Copenhagen
+      details: |
+        Founded MeetYourMakers - a world-class e-sports team winning championships around the world. Built an online community portal for gamers from scratch and grew it to 1.4 million registered users.
+
+          - 👨‍💼 Team of 4 Developers, 12 Staff, 100 Players, 750 Volunteers
+          - 🐘 PHP
+          - 🐬 MySQL
+          - 🕹 eSports
+      gallery:
+        - image: mymym.png
+        - image: mym.jpg
+        - image: mym06.jpg
+        - image: dh08.jpg
+        - image: dh082.jpg
+        - image: interview.jpg
+          video: https://www.youtube-nocookie.com/embed/-lx_AdKjf90
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+    
+    - slug: puntoservicios
+      role: Técnico de la línea APPLE
+      time: Marzo - Julio 2012
+      company: <i class="fab fa-apple"></i> PUNTO DE SERVICIOS S.A, 🇨🇴 Colombia
+      
+    - slug: freelance
+      role: Técnico en servicio y soporte
+      time: Desde diciembre de 2012 hasta enero de 2014, regreso desde marzo de 2014 – julio de 2015, Nuevamente regreso desde agosto de 2016 – abril de 2017.
+      company: <i class="fab fa-apple"></i> 🏢 Freelance, 🇨🇴 Colombia
+      
+      - slug: pitchxo
+      role: Founder, CTO
+      time: 2014 - Present
+      company: 📈 pitchXO, 🇭🇰 Hong Kong
+    
+    - slug: pitchxo
+      role: Founder, CTO
+      time: 2014 - Present
+      company: 📈 pitchXO, 🇭🇰 Hong Kong
 
-          - Bullet point
-          - Bullet point
+    - slug: stefanxo
+      role: Director
+      time: 2014 - Present
+      company: 🖥 stefanXO, 🇭🇰 Hong Kong
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    - slug: spacemages
+      role: Game Developer, Founder
+      time: 2017 - Present
+      company: 👾 Space Mages, 🇹🇭 Koh Samui
 
-          - Bullet point
-          - Bullet point
+    - slug: saasbuilders
+      role: CTO
+      time: 2016 - 2017
+      company: 👾 SaaS Builders, 🇩🇰 Copenhagen
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    - slug: everbread
+      role: Head Integration Engineer & Enterprise Architect
+      time: 2009 - 2012
+      company: ✈️ Everbread, 🇬🇧 London
 
-          - Bullet point
-          - Bullet point
+    - slug: hello
+      role: Solutions Architect
+      time: 2009 - 2009
+      company: 💸 Hello Group A/S, 🇩🇰 Copenhagen
+
+    - slug: esnation
+      role: CTO, Founder
+      time: 2003 - 2009
+      company: 🕹 ESNation A/S, 🇩🇰 Copenhagen
 
 projects:
-    title: Projects
+    title: Open Source Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Most of these projects are open source, or have the source available upon download.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Firebug Lite for Google Chrome
+        icon: 🐞
+        link: "https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/ehemiojjcpldeipjhjkepfdaohajpbdo"
+        tagline: 25,000 weekly users
+        description: "Maintaining the old Firebug Lite port for newer Chrome versions."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Tab Manager Plus for Google Chrome
+        icon: 📑
+        link: "https://www.producthunt.com/posts/tab-manager-plus-for-chrome"
+        tagline: 5,000 weekly users
+        description: "The best Tab Manager for Chrome. Quickly find open tabs, see all windows in one view, find duplicates and limit tabs per window."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Amazon AWS Quick links
+        icon: ☁️ 
+        link: "https://chrome.google.com/webstore/detail/amazon-aws-quick-links/fklkdeiiapbakigkagblkiaigibanmdm"
+        tagline: 500 weekly users
+        description: "A simple extension to remember the AWS resources you recently accessed, and to quickly open new tabs with AWS resources you want to visit."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Dropdown List of Most Visited Links
+        icon: 🍪
+        link: "https://chrome.google.com/webstore/detail/dropdown-list-of-most-vis/pbaddbipnfofidkfailfgdmlfapfdaai"
+        tagline: 500 weekly users
+        description: "Chrome extension giving the user quick access to his most visited links within a dropdown."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Chrome User Script Handler
+        icon: 🤖
+        link: "https://chrome.google.com/webstore/detail/chrome-user-script-handle/dofpeochehjcckohddplnekbcndhcoid"
+        tagline: 500 weekly users
+        description: "Allows users to execute user script within the browser. Port for newer Chrome versions to fix new security model."
+
+      - title: BaseBall Scoreboard
+        icon: ⚾️ 
+        link: "https://chrome.google.com/webstore/detail/baseball-scoreboard/agadfdkijldlopjlbegiklkfdbmhpecj"
+        tagline: 350 weekly users
+        description: "A MLB based BaseBall Scoreboard for newer Chrome versions."
+
+      - title: Simple Reddit
+        icon: 🍥
+        link: "https://chrome.google.com/webstore/detail/simple-reddit/jejipnoipkfdminjihaekdfipkiddmgo"
+        tagline: 100 weekly users
+        description: "A Reddit re-design re-design."
+
+      - title: AS3HX Online Converter
+        icon: 🤖
+        link: "http://as3hx.spacemages.com/"
+        description: "Converts AS3 ( Flash ) code online to Haxe."
+
+      - title: itembase Go Api 
+        icon: 🏬
+        link: "https://github.com/saasbuilders/itembase"
+        description: "A Go (golang) REST client library for the itembase API"
+
+contributions:
+    title: Other Contributions and Projects
+    intro: >
+      Projects I have contributed to over the years
+
+    assignments:
+      - title: I ❤️ Data Bangkok Meetup
+        icon: 🤓
+        link: https://www.meetup.com/I-3-Data-Bangkok-Meetup/
+        description: "Co-Founded a 1300 members group of Data Enthusiasts, with 7 meetups ranging from 40-250 attendees"
+
+      - title: DREAM BIG / Virgin Unite Fundraiser 
+        icon: ❤️
+        link: https://ivaekst.dk/nyhedsbrev/ivaekst-xtra-uge-13
+        description: "Co-Organized the DREAM BIG / Virgin Unite fundraiser with Sir Richard Branson and Morten Lund in Copenhagen. In total we raised over 100,000 EUR at the event, which were additionally matched by Virgin Unite."
+
+      - title: Bits & Bretzels 2015
+        icon: 🍻
+        link: https://bitsandpretzels.topi.com/session/markus-stefanko-ceo-pitchxo-morten-lund-angel-investor-onlyxocom-5X5ep
+        description: "Spoke in front of 3,000 Entrepreneurs at the Bits & Pretzels 2015 event in Munich"
+
+      - title: Go Anti-Patterns
+        icon: 🐀
+        link: https://gist.github.com/mastef/05f46d3ab2f5ed6a6787
+        description: "Why os.IsExist(err) != !os.IsNotExist(err) - an important anti-pattern in golang"
+
+      - title: AMF.js - AMF transpiler in Node 
+        icon: ⚡️
+        link: https://github.com/mikesmullin/amf-js/pulls?q=is%3Apr+is%3Aclosed
+        description: <i>Contributed</i> to the AMF transpilation package, which allows you to export binary ActionScript data into javascript objects.
+
+      - title: node-google-spreadsheet
+        icon: 🐢
+        link: https://github.com/theoephraim/node-google-spreadsheet/pull/182
+        description: <i>Contributed</i> to the package in reducing the memory footprint for massive sheets - and also to allow controling of your sheets through AWS Lambda.
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    # title: Publications
+    # intro: |
+    #   You can list your publications in this section. Lorem ipsum dolor sit
+    #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #   bibendum fringilla a eu lectus.
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    # papers:
+    #   - title: The Art of Computer Programming
+    #     authors: Donald E. Knuth
+    #     conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+    #   - title: A syntax directed compiler for Algol 60
+    #     authors: Edgar T. Irons
+    #     conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: 🐘 PHP
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: 🐿 HTML5 & CSS
         level: 98%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: 🐳 Docker
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: 🐢 node.js
+        level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: 🔥 Firebase
+        level: 95%
+
+      - name: 🐗 Angular
+        level: 90%
+
+      - name: 🐬 MySQL
+        level: 90%
+
+      - name: 🔸 Haxe
+        level: 90%
+
+      - name: ⚡ SWF Bytecode
+        level: 80%
+
+      - name: 🐀 Go
+        level: 75%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    tomó 2 días para hacer <i class="fas fa-heart"></i> en Bogotá D.C. y toda una vida para llenar
+    Este CV es <a href="https://github.com/andgar2010/cv-andgar2010">Código libre</a>
