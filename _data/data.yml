@@ -32,13 +32,13 @@ sidebar:
      
     languages:      
       - idiom: 🇨🇴 <i class="fas fa-sign-language"></i> LSC (Lengua de Señas Colombiana)
-        level: Nativa
+        level: Lengua materna / Nativa
         
       - idiom: 🇺🇸 <i class="fas fa-sign-language"></i> ASL (Lengua de Señas Estadounidense)
-        level: Bueno
+        level: Segunda lengua (comprensión y expresión)
       
       - idiom: 🇪🇸 ✍️ Spanish
-        level: Bueno
+        level: B1 (Lectura y comprensión en menor medida. y escritura)     
             
       - idiom: 🇺🇸 ✍️ English
         level: leído (Compresión técnica) y escrito (Básica)
@@ -62,6 +62,21 @@ career-profile:
       I'm currently based on 🏝 Koh Samui, and am exclusively interested in 🖥 remote-only positions.
 
       Positions I'm interested in : CTO, VP of Engineering, Chief Architect, Director of Cloud Infrastructure, VP of Product Engineering
+      
+      - Innovación
+      - Perseverancia
+      - Programación
+      - Trabajo en equipo
+      - Iniciativa
+      - Liderazgo de equipos
+      - Digital
+      - Capacidad de análisis y síntesis
+      - Toma de decisiones
+      - Iniciativa y espíritu emprendedor
+      - Gestión de La Información
+      - Razonamiento crítico
+      - Análisis de sistemas
+      - Compromiso ético
 
 education:
      - degree: MSc in Computer Science
@@ -92,13 +107,13 @@ education:
 
 highlights:
     - slug: sena
-      role: Tecnólogo Análisis Y Desarrollo de Sistemas de Información (Analista/Desarrollador Software Junior).
+      role: Analista/Desarrollador Software Junior.
       time: Desde julio de 2018 – 14 diciembre de 2018.
       company: 📈 SENA Centro Electricidad, Electrónica y Telecomunicaciones – Regional Distrito Capital., 🇨🇴 Bogotá D.C., Colombia
       details: |
         Proyecto: SCHEDUS - Sistema de organización y asignación de horario en Sena CEET.
             
-            - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB. 
+            - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB.
             
             - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.           
             
@@ -116,25 +131,25 @@ highlights:
           - 🐿 HTML5 / Webpack
           - 📱 Mobile Targets
           - 🐘 PHP
-            - Apache,
-            - MariaDB,
-            - 🐘 PHP  MVC/API,
-            - JavaScript,
-            - jQuery,
-            - CoreUI,
-            - Bootstrap 4,
-            - Node.js,
-            - Yarn,
-            - Composer,
-            - Unit Testing,
-            - Browser Testing,
-            - Web Design,
-            - Katalon,
-            - Git,
-            - PHPMailer,
-            - DataTables  
-            - 🐢 node.js
-            Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
+          - Apache,
+          - MariaDB,
+          - 🐘 PHP  MVC/API,
+          - JavaScript,
+          - jQuery,
+          - CoreUI,
+          - Bootstrap 4,
+          - Node.js,
+          - Yarn,
+          - Composer,
+          - Unit Testing,
+          - Browser Testing,
+          - Web Design,
+          - Katalon,
+          - Git,
+          - PHPMailer,
+          - DataTables  
+          - 🐢 node.js
+          Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
       gallery:
         - image: pitchxo.jpg
         - image: pitchxo2.jpg
@@ -356,17 +371,17 @@ publications:
        bibendum fringilla a eu lectus.
 
      papers:
-       - title: The Art of Computer Programming
-         authors: Donald E. Knuth
-         conference: Addison-Wesley, 1968
+       - title: Ensayo: ¿Cómo se escucha el silencio? (Edición en Lengua de Señas Colombiana) [Subtitulada en Español]
+         authors: Andrés García, Traductora al subtítulos: Madeleine Mendivil
+         link: http://bit.ly/EnsayoComoSeEscuchaElSilencio
 
-       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+     #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+     #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-       - title: A syntax directed compiler for Algol 60
-         authors: Edgar T. Irons
-         conference: "Comm. ACM 4 (1961), 51–55"
+     # - title: A syntax directed compiler for Algol 60
+     #   authors: Edgar T. Irons
+     #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
