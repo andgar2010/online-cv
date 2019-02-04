@@ -343,22 +343,22 @@ contributions:
       - title: Universal Bypass
         icon: ⚡
         link: https://github.com/timmyrs/Universal-Bypass
-        description: <i>Contribución</i>al paquete en la traducción en español de Universal Bypass.
+        description: <i>Contribución</i> al paquete en la traducción en español de Universal Bypass.
       
       - title: MX Player
         icon: 🎬
         link: https://sites.google.com/site/mxvpen/
-        description: <i>Contribución</i>al paquete en la traducción en español de MX Player.
+        description: <i>Contribución</i> al paquete en la traducción en español de MX Player.
       
       - title: HeidiSQL
         icon: <i class="fas fa-database"></i>
         link: https://www.transifex.com/david.proweb/teams/12545/es/
-        description: <i>Contribución</i>al paquete en la traducción en español de HeidiSQL.
+        description: <i>Contribución</i> al paquete en la traducción en español de HeidiSQL.
       
       - title: edX platform
         icon: 📖
         link: https://www.transifex.com/open-edx/teams/6205/es_419/
-        description: <i>Contribución</i>al paquete en la traducción en español de edX plataform.
+        description: <i>Contribución</i> al paquete en la traducción en español de edX plataform.
 
 publications:
      title: Publications
@@ -390,14 +390,14 @@ skills:
       - name: 🐿 HTML5 & CSS
         level: 60%
 
-      - name: 🐳 Docker
-        level: 95%
+      - name: ☕ Java
+        level: 15%
 
-      - name: 🐳 Docker
-        level: 95%
+      - name: 🐲 C#
+        level: 20%
 
-      - name: 🐳 Docker
-        level: 95%
+      - name: ⚡JavaScript
+        level: 60%
 
       - name: 🐳 Docker
         level: 95%
