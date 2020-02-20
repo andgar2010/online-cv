@@ -55,13 +55,17 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I have been working with startups in all possible industries for the past 15 years.
-    From humble beginnings in eSports communities, to design agencies, banking, mobile gaming, travel tech, fintech and finally SaaS platforms.
+    Tecnólogo en Análisis y desarrollo en sistemas de información con experiencia en entorno desarrollo Aplicación Fullstack, App Móvil Híbrido, análisis y diseño base de datos; y manejo de servidores; conocimiento y manejo de lenguajes de programación como PHP, Node.js, Typescript. Framework Quasar (Vue.js/Cordova), Bootstrap, Laravel, Directus CMS.
+    Proactivo, innovador, con iniciativa, capacidad de análisis, toma de decisiones, honesto y con la disciplina de poner en práctica todo lo aprendido.
 
-    I'm currently based on 🏝 Koh Samui, and am exclusively interested in 🖥 remote-only positions.
+    Actualmente estoy ubicado en Bogotá D.C.,
 
-    Positions I'm interested in : CTO, VP of Engineering, Chief Architect, Director of Cloud Infrastructure, VP of Product Engineering
+    Posiciones que me interesan: Desarrollador App Movil Híbridas (Cordova) y/o Nativa (Flutter), Desarrollador Backend Node.JS
+#    I'm currently based on 🏝 Koh Samui, and am exclusively interested in 🖥 remote-only positions.
+#    Positions I'm interested in : CTO, VP of Engineering, Chief Architect, Director of Cloud Infrastructure, VP of Product Engineering
 
+#    I have been working with startups in all possible industries for the past 2 years.
+#    From humble beginnings in eSports communities, to design agencies, banking, mobile gaming, travel tech, fintech and finally SaaS platforms.
     - Innovación
     - Perseverancia
     - Programación
@@ -105,6 +109,107 @@ education:
         - Bullet point
 
 highlights:
+  - slug: innlab
+    role: Desarrollador de aplicaciones.
+    time: Mar. 2019 – Ene. 2020
+    company: 📈 INNLAB COMPANY, 🇨🇴 Bogotá D.C., Colombia
+    details: |
+      Proyecto: TEELLA - Sistema de organización y asignación de horario en Sena CEET.
+
+      - Diseñó y desarrolló aplicación móvil basada framework Quasar (Vue.js), Google Firebase;
+      - Diseñó y desarrollo base de datos MySQL;
+      - Desarrollo backend PHP (Framework Directus) con REST API y GraphQL con seguridad JWT.
+      -	Utilizado npm módulos JavaScript y aprendido acerca de muchas buenas prácticas de Desarrollo Web;
+
+        Tecnologías:
+
+        - 👨‍💼 Equipo de 2 desarrolladores + open source devs
+        - 🔥 Firebase
+        - 🐘 PHP MVC/API,
+        - 📱 Cordova
+        - 🐿 HTML5 / Webpack
+
+        - 🐳 Docker
+        - 🔬 Microservices
+        - 🔸 Haxe
+        - 🍏 Objective C
+        - ☕️ Java
+        - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
+        - ⚡ SWF Transpilation
+        - Apache,
+        - MariaDB,
+        - JavaScript,
+        - jQuery,
+        - CoreUI,
+        - Bootstrap 4,
+        - Node.js,
+        - Yarn,
+        - Composer,
+        - Unit Testing,
+        - Browser Testing,
+        - Web Design,
+        - Katalon,
+        - Git,
+        - PHPMailer,
+        - DataTables
+        - 🐢 node.js
+        Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
+    gallery:
+      - image: pitchxo.jpg
+      - image: pitchxo2.jpg
+      - image: bits.jpg
+      - image: pitchxo-event1.jpg
+      - image: pitchxo-event2.jpg
+  - slug: sena
+    role: Analista/Desarrollador Software (Pasantía).
+    time: Jul. 2018 – Feb. 2019
+    company: 📈 SENA Centro Electricidad, Electrónica y Telecomunicaciones – Regional Distrito Capital., 🇨🇴 Bogotá D.C., Colombia
+    details: |
+      Proyecto: SCHEDUS - Sistema de organización y asignación de horario en Sena CEET.
+
+          - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB.
+
+          - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.
+
+        Tecnologías:
+
+        - 👨‍💼 Equipo de 2 desarrolladores + open source devs
+        - 🐳 Docker
+        - 🔬 Microservices
+        - 🔥 Firebase
+        - 🔸 Haxe
+        - 🍏 Objective C
+        - ☕️ Java
+        - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
+        - ⚡ SWF Transpilation
+        - 🐿 HTML5 / Webpack
+        - 📱 Mobile Targets
+        - 🐘 PHP
+        - Apache,
+        - MariaDB,
+        - 🐘 PHP  MVC/API,
+        - JavaScript,
+        - jQuery,
+        - CoreUI,
+        - Bootstrap 4,
+        - Node.js,
+        - Yarn,
+        - Composer,
+        - Unit Testing,
+        - Browser Testing,
+        - Web Design,
+        - Katalon,
+        - Git,
+        - PHPMailer,
+        - DataTables
+        - 🐢 node.js
+        Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
+    gallery:
+      - image: pitchxo.jpg
+      - image: pitchxo2.jpg
+      - image: bits.jpg
+      - image: pitchxo-event1.jpg
+      - image: pitchxo-event2.jpg
   - slug: sena
     role: Analista/Desarrollador Software (Pasantía).
     time: Jul. 2018 – Feb. 2019
