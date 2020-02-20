@@ -3,278 +3,276 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Andrés F. García
-    tagline: Tecnólogo en Análisis y desarrollo en Sistema de Infomación (ADSI) en SENA
-      Técnico en mantenimiento de computadores (PC & Apple) y celulares |<br>Editor Video | Traductor LSC (Lengua de Señas Colombiana) | Vlogger
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Andrés F. García
+  tagline: Desarrollador FullStack App Mobile | Técnico en mantenimiento de computadores (PC & Apple) y celulares |<br>Editor Video | Traductor LSC (Lengua de Señas Colombiana)
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: info@tech-andgar.tk
-    phone: +57 317 332 3476 Solo Texto
-    website: github.com/andgar2010 #do not add http://
-    linkedin: techandgar
-    angellist: # Number/Username, e.g. 123456/alandoe
-    github: andgar2010
-    gitlab: # Number/Username, e.g. 123456/alandoe
-    bitbucket: # Number/Username, e.g. 123456/alandoe
-    twitter: '@andgar2010'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars: # Number/Username, e.g. 123456/alandoe
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: info@tech-andgar.tk
+  phone: +57 317 332 3476 Solo Texto
+  website: github.com/andgar2010 #do not add http://
+  linkedin: techandgar
+  angellist: # Number/Username, e.g. 123456/alandoe
+  github: andgar2010
+  gitlab: # Number/Username, e.g. 123456/alandoe
+  bitbucket: # Number/Username, e.g. 123456/alandoe
+  twitter: '@andgar2010'
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars: # Number/Username, e.g. 123456/alandoe
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    locations:
-      - idiom: 🇨🇴 Colombia
-        level: 1990-2018
-     
-    languages:      
-      - idiom: 🇨🇴 <i class="fas fa-sign-language"></i> LSC (Lengua de Señas Colombiana)
-        level: Lengua materna / Nativa
-        
-      - idiom: 🇺🇸 <i class="fas fa-sign-language"></i> ASL (Lengua de Señas Estadounidense)
-        level: Segunda lengua (comprensión y expresión)
-      
-      - idiom: 🇪🇸 ✍️ Spanish
-        level: B1 (Lectura y comprensión en menor medida. y escritura)     
-            
-      - idiom: 🇺🇸 ✍️ English
-        level: leído (Compresión técnica) y escrito (Básica)
+  locations:
+    - idiom: 🇨🇴 Colombia
+      level: 1990-2018
 
-    interests:
-      - item: 🚣 SUP Marathons
-        link: "https://sup.girlonsamui.com"
+  languages:
+    - idiom: 🇨🇴 <i class="fas fa-sign-language"></i> LSC (Lengua de Señas Colombiana)
+      level: Lengua materna / Nativa
 
-      - item: 🏄 Wakeboarding
-        link:
+    - idiom: 🇺🇸 <i class="fas fa-sign-language"></i> ASL (Lengua de Señas Estadounidense)
+      level: Segunda lengua (comprensión y expresión)
 
-      - item: 🖥 Making
-        link:
+    - idiom: 🇪🇸 ✍️ Spanish
+      level: B1 (Lectura y comprensión en menor medida. y escritura)
+
+    - idiom: 🇺🇸 ✍️ English
+      level: leído (Compresión técnica) y escrito (Básica)
+
+  interests:
+    - item: 🚣 SUP Marathons
+      link: 'https://sup.girlonsamui.com'
+
+    - item: 🏄 Wakeboarding
+      link:
+
+    - item: 🖥 Making
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      I have been working with startups in all possible industries for the past 15 years.
-      From humble beginnings in eSports communities, to design agencies, banking, mobile gaming, travel tech, fintech and finally SaaS platforms.
+  title: Career Profile
+  summary: |
+    I have been working with startups in all possible industries for the past 15 years.
+    From humble beginnings in eSports communities, to design agencies, banking, mobile gaming, travel tech, fintech and finally SaaS platforms.
 
-      I'm currently based on 🏝 Koh Samui, and am exclusively interested in 🖥 remote-only positions.
+    I'm currently based on 🏝 Koh Samui, and am exclusively interested in 🖥 remote-only positions.
 
-      Positions I'm interested in : CTO, VP of Engineering, Chief Architect, Director of Cloud Infrastructure, VP of Product Engineering
-      
-      - Innovación
-      - Perseverancia
-      - Programación
-      - Trabajo en equipo
-      - Iniciativa
-      - Liderazgo de equipos
-      - Digital
-      - Capacidad de análisis y síntesis
-      - Toma de decisiones
-      - Iniciativa y espíritu emprendedor
-      - Gestión de La Información
-      - Razonamiento crítico
-      - Análisis de sistemas
-      - Compromiso ético
+    Positions I'm interested in : CTO, VP of Engineering, Chief Architect, Director of Cloud Infrastructure, VP of Product Engineering
+
+    - Innovación
+    - Perseverancia
+    - Programación
+    - Trabajo en equipo
+    - Iniciativa
+    - Liderazgo de equipos
+    - Digital
+    - Capacidad de análisis y síntesis
+    - Toma de decisiones
+    - Iniciativa y espíritu emprendedor
+    - Gestión de La Información
+    - Razonamiento crítico
+    - Análisis de sistemas
+    - Compromiso ético
 
 education:
-     - degree: MSc in Computer Science
-       university: University of London
-       time: 2011 - 2012
-       details: |
-         Describe your study here lorem ipsum dolor sit amet, consectetuer
-         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-         sociis natoque penatibus et magnis dis parturient montes, nascetur
-         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-         pretium quis, sem.
+  - degree: MSc in Computer Science
+    university: University of London
+    time: 2011 - 2012
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
 
-           - Bullet point
-           - Bullet point
+        - Bullet point
+        - Bullet point
 
-     - degree: BSc in Applied Mathematics
-       university: Bristol University
-       time: 2007 - 2011
-       details: |
-         Describe your study here lorem ipsum dolor sit amet, consectetuer
-         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-         sociis natoque penatibus et magnis dis parturient montes, nascetur
-         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-         pretium quis, sem.
+  - degree: BSc in Applied Mathematics
+    university: Bristol University
+    time: 2007 - 2011
+    details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
 
-           - Bullet point
-           - Bullet point
+        - Bullet point
+        - Bullet point
 
 highlights:
-    - slug: sena
-      role: Analista/Desarrollador Software Junior.
-      time: Desde julio de 2018 – 14 diciembre de 2018.
-      company: 📈 SENA Centro Electricidad, Electrónica y Telecomunicaciones – Regional Distrito Capital., 🇨🇴 Bogotá D.C., Colombia
-      details: |
-        Proyecto: SCHEDUS - Sistema de organización y asignación de horario en Sena CEET.
-            
-            - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB.
-            
-            - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.           
-            
-            Tecnologías:
+  - slug: sena
+    role: Analista/Desarrollador Software (Pasantía).
+    time: Jul. 2018 – Feb. 2019
+    company: 📈 SENA Centro Electricidad, Electrónica y Telecomunicaciones – Regional Distrito Capital., 🇨🇴 Bogotá D.C., Colombia
+    details: |
+      Proyecto: SCHEDUS - Sistema de organización y asignación de horario en Sena CEET.
 
-          - 👨‍💼 Equipo de 2 desarrolladores + open source devs
-          - 🐳 Docker
-          - 🔬 Microservices
-          - 🔥 Firebase
-          - 🔸 Haxe
-          - 🍏 Objective C
-          - ☕️ Java
-          - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
-          - ⚡ SWF Transpilation
-          - 🐿 HTML5 / Webpack
-          - 📱 Mobile Targets
-          - 🐘 PHP
-          - Apache,
-          - MariaDB,
-          - 🐘 PHP  MVC/API,
-          - JavaScript,
-          - jQuery,
-          - CoreUI,
-          - Bootstrap 4,
-          - Node.js,
-          - Yarn,
-          - Composer,
-          - Unit Testing,
-          - Browser Testing,
-          - Web Design,
-          - Katalon,
-          - Git,
-          - PHPMailer,
-          - DataTables  
-          - 🐢 node.js
-          Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
-      gallery:
-        - image: pitchxo.jpg
-        - image: pitchxo2.jpg
-        - image: bits.jpg
-        - image: pitchxo-event1.jpg
-        - image: pitchxo-event2.jpg
-    - slug: spacemages
-      role: Game Developer, Founder
-      time: 2017 - Present
-      company: 👾 Space Mages, 🇹🇭 Koh Samui
-      details: |
-        Created a whole cloud-based automation pipeline porting a massive ⚡ SWF based codebase into Haxe ( HTML5, Native, Mobile ) compatible code, that was then automatically committed to the main repository based on compilation tests. Work on this ranged from SWF bytecode transpilation to AWS Batch processing within thousands of simultaneous Docker containers.
+          - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB.
 
-          - 👨‍💼 Team of 8 developers + open source devs
-          - 🐳 Docker
-          - 🔬 Microservices
-          - 🔥 Firebase
-          - 🔸 Haxe
-          - 🍏 Objective C
-          - ☕️ Java
-          - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
-          - ⚡ SWF Transpilation
-          - 🐿 HTML5 / Webpack
-          - 📱 Mobile Targets
-          - 🐘 PHP
-      gallery:
-        - image: animaljam.jpg
-        - image: doodpuzzle.jpg
-        - image: lambda.gif
+          - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.
 
-    - slug: everbread
-      role: Head Integration Engineer & Enterprise Architect
-      time: 2009 - 2012
-      company: ✈️ Everbread, 🇬🇧 London
-      details: |
-        Right hand of the CTO. Built an ITA competitor ( acquired by Google, 5 years ) within 9 months. Remote teams, APAC clients, Enterprise Architecture, Travel Tech.
+        Tecnologías:
 
-          - 👨‍💼 Team of 10-25 Developers, 30 Staff
-          - 🐨 Atlassian Suite
-          - 🐍 Python
-          - 🐘 PHP
-      gallery:
-        - image: flydini.png
-        - image: everbread1.jpg
-        - image: haystack.jpg
-          video: https://player.vimeo.com/video/25514964
+        - 👨‍💼 Equipo de 2 desarrolladores + open source devs
+        - 🐳 Docker
+        - 🔬 Microservices
+        - 🔥 Firebase
+        - 🔸 Haxe
+        - 🍏 Objective C
+        - ☕️ Java
+        - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
+        - ⚡ SWF Transpilation
+        - 🐿 HTML5 / Webpack
+        - 📱 Mobile Targets
+        - 🐘 PHP
+        - Apache,
+        - MariaDB,
+        - 🐘 PHP  MVC/API,
+        - JavaScript,
+        - jQuery,
+        - CoreUI,
+        - Bootstrap 4,
+        - Node.js,
+        - Yarn,
+        - Composer,
+        - Unit Testing,
+        - Browser Testing,
+        - Web Design,
+        - Katalon,
+        - Git,
+        - PHPMailer,
+        - DataTables
+        - 🐢 node.js
+        Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
+    gallery:
+      - image: pitchxo.jpg
+      - image: pitchxo2.jpg
+      - image: bits.jpg
+      - image: pitchxo-event1.jpg
+      - image: pitchxo-event2.jpg
+  - slug: spacemages
+    role: Game Developer, Founder
+    time: 2017 - Present
+    company: 👾 Space Mages, 🇹🇭 Koh Samui
+    details: |
+      Created a whole cloud-based automation pipeline porting a massive ⚡ SWF based codebase into Haxe ( HTML5, Native, Mobile ) compatible code, that was then automatically committed to the main repository based on compilation tests. Work on this ranged from SWF bytecode transpilation to AWS Batch processing within thousands of simultaneous Docker containers.
 
-    - slug: esnation
-      role: CTO, Founder
-      time: 2003 - 2009
-      company: 🕹 ESNation A/S, 🇩🇰 Copenhagen
-      details: |
-        Founded MeetYourMakers - a world-class e-sports team winning championships around the world. Built an online community portal for gamers from scratch and grew it to 1.4 million registered users.
+        - 👨‍💼 Team of 8 developers + open source devs
+        - 🐳 Docker
+        - 🔬 Microservices
+        - 🔥 Firebase
+        - 🔸 Haxe
+        - 🍏 Objective C
+        - ☕️ Java
+        - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
+        - ⚡ SWF Transpilation
+        - 🐿 HTML5 / Webpack
+        - 📱 Mobile Targets
+        - 🐘 PHP
+    gallery:
+      - image: animaljam.jpg
+      - image: doodpuzzle.jpg
+      - image: lambda.gif
 
-          - 👨‍💼 Team of 4 Developers, 12 Staff, 100 Players, 750 Volunteers
-          - 🐘 PHP
-          - 🐬 MySQL
-          - 🕹 eSports
-      gallery:
-        - image: mymym.png
-        - image: mym.jpg
-        - image: mym06.jpg
-        - image: dh08.jpg
-        - image: dh082.jpg
-        - image: interview.jpg
-          video: https://www.youtube-nocookie.com/embed/-lx_AdKjf90
+  - slug: everbread
+    role: Head Integration Engineer & Enterprise Architect
+    time: 2009 - 2012
+    company: ✈️ Everbread, 🇬🇧 London
+    details: |
+      Right hand of the CTO. Built an ITA competitor ( acquired by Google, 5 years ) within 9 months. Remote teams, APAC clients, Enterprise Architecture, Travel Tech.
+
+        - 👨‍💼 Team of 10-25 Developers, 30 Staff
+        - 🐨 Atlassian Suite
+        - 🐍 Python
+        - 🐘 PHP
+    gallery:
+      - image: flydini.png
+      - image: everbread1.jpg
+      - image: haystack.jpg
+        video: https://player.vimeo.com/video/25514964
+
+  - slug: esnation
+    role: CTO, Founder
+    time: 2003 - 2009
+    company: 🕹 ESNation A/S, 🇩🇰 Copenhagen
+    details: |
+      Founded MeetYourMakers - a world-class e-sports team winning championships around the world. Built an online community portal for gamers from scratch and grew it to 1.4 million registered users.
+
+        - 👨‍💼 Team of 4 Developers, 12 Staff, 100 Players, 750 Volunteers
+        - 🐘 PHP
+        - 🐬 MySQL
+        - 🕹 eSports
+    gallery:
+      - image: mymym.png
+      - image: mym.jpg
+      - image: mym06.jpg
+      - image: dh08.jpg
+      - image: dh082.jpg
+      - image: interview.jpg
+        video: https://www.youtube-nocookie.com/embed/-lx_AdKjf90
 
 experiences:
-    
-    - slug: puntoservicios
-      role: Técnico de la línea APPLE
-      time: Marzo - Julio 2012
-      company: <i class="fab fa-apple"></i> PUNTO DE SERVICIOS S.A, 🇨🇴 Colombia
-      details: |
-        Founded MeetYourMakers - a world-class e-sports team winning championships around the world. Built an online community portal for gamers from scratch and grew it to 1.4 million registered users.
+  - slug: puntoservicios
+    role: Técnico de la línea APPLE
+    time: Marzo - Julio 2012
+    company: <i class="fab fa-apple"></i> PUNTO DE SERVICIOS S.A, 🇨🇴 Colombia
+    details: |
+      Founded MeetYourMakers - a world-class e-sports team winning championships around the world. Built an online community portal for gamers from scratch and grew it to 1.4 million registered users.
 
-          - 👨‍💼 Team of 4 Developers, 12 Staff, 100 Players, 750 Volunteers
-          - 🐘 PHP
-          - 🐬 MySQL
-          - 🕹 eSports
-      
-    - slug: freelance
-      role: Técnico en servicio y soporte
-      time: Desde diciembre de 2012 hasta enero de 2014, regreso desde marzo de 2014 – julio de 2015, Nuevamente regreso desde agosto de 2016 – abril de 2017.
-      company: <i class="fab fa-apple"></i> 🏢 Freelance, 🇨🇴 Colombia
-      
-    - slug: pitchxo
-      role: Founder, CTO
-      time: 2014 - Present
-      company: 📈 pitchXO, 🇭🇰 Hong Kong
-    
-    - slug: pitchxo
-      role: Founder, CTO
-      time: 2014 - Present
-      company: 📈 pitchXO, 🇭🇰 Hong Kong
+        - 👨‍💼 Team of 4 Developers, 12 Staff, 100 Players, 750 Volunteers
+        - 🐘 PHP
+        - 🐬 MySQL
+        - 🕹 eSports
 
-    - slug: stefanxo
-      role: Director
-      time: 2014 - Present
-      company: 🖥 stefanXO, 🇭🇰 Hong Kong
+  - slug: freelance
+    role: Técnico en servicio y soporte
+    time: Desde diciembre de 2012 hasta enero de 2014, regreso desde marzo de 2014 – julio de 2015, Nuevamente regreso desde agosto de 2016 – abril de 2017.
+    company: <i class="fab fa-apple"></i> 🏢 Freelance, 🇨🇴 Colombia
 
-    - slug: spacemages
-      role: Game Developer, Founder
-      time: 2017 - Present
-      company: 👾 Space Mages, 🇹🇭 Koh Samui
+  - slug: pitchxo
+    role: Founder, CTO
+    time: 2014 - Present
+    company: 📈 pitchXO, 🇭🇰 Hong Kong
 
-    - slug: saasbuilders
-      role: CTO
-      time: 2016 - 2017
-      company: 👾 SaaS Builders, 🇩🇰 Copenhagen
+  - slug: pitchxo
+    role: Founder, CTO
+    time: 2014 - Present
+    company: 📈 pitchXO, 🇭🇰 Hong Kong
 
-    - slug: everbread
-      role: Head Integration Engineer & Enterprise Architect
-      time: 2009 - 2012
-      company: ✈️ Everbread, 🇬🇧 London
+  - slug: stefanxo
+    role: Director
+    time: 2014 - Present
+    company: 🖥 stefanXO, 🇭🇰 Hong Kong
 
-    - slug: hello
-      role: Solutions Architect
-      time: 2009 - 2009
-      company: 💸 Hello Group A/S, 🇩🇰 Copenhagen
+  - slug: spacemages
+    role: Game Developer, Founder
+    time: 2017 - Present
+    company: 👾 Space Mages, 🇹🇭 Koh Samui
 
-    - slug: esnation
-      role: CTO, Founder
-      time: 2003 - 2009
-      company: 🕹 ESNation A/S, 🇩🇰 Copenhagen
+  - slug: saasbuilders
+    role: CTO
+    time: 2016 - 2017
+    company: 👾 SaaS Builders, 🇩🇰 Copenhagen
+
+  - slug: everbread
+    role: Head Integration Engineer & Enterprise Architect
+    time: 2009 - 2012
+    company: ✈️ Everbread, 🇬🇧 London
+
+  - slug: hello
+    role: Solutions Architect
+    time: 2009 - 2009
+    company: 💸 Hello Group A/S, 🇩🇰 Copenhagen
+
+  - slug: esnation
+    role: CTO, Founder
+    time: 2003 - 2009
+    company: 🕹 ESNation A/S, 🇩🇰 Copenhagen
 
 #projects:
 #    title: Open Source Projects
@@ -295,7 +293,7 @@ experiences:
 #        description: "The best Tab Manager for Chrome. Quickly find open tabs, see all windows in one view, find duplicates and limit tabs per window."
 #
 #      - title: Amazon AWS Quick links
-#        icon: ☁️ 
+#        icon: ☁️
 #        link: "https://chrome.google.com/webstore/detail/amazon-aws-quick-links/fklkdeiiapbakigkagblkiaigibanmdm"
 #        tagline: 500 weekly users
 #        description: "A simple extension to remember the AWS resources you recently accessed, and to quickly open new tabs with AWS resources you want to visit."
@@ -313,7 +311,7 @@ experiences:
 #        description: "Allows users to execute user script within the browser. Port for newer Chrome versions to fix new security model."
 #
 #      - title: BaseBall Scoreboard
-#        icon: ⚾️ 
+#        icon: ⚾️
 #        link: "https://chrome.google.com/webstore/detail/baseball-scoreboard/agadfdkijldlopjlbegiklkfdbmhpecj"
 #        tagline: 350 weekly users
 #        description: "A MLB based BaseBall Scoreboard for newer Chrome versions."
@@ -329,106 +327,105 @@ experiences:
 #        link: "http://as3hx.spacemages.com/"
 #        description: "Converts AS3 ( Flash ) code online to Haxe."
 #
-#      - title: itembase Go Api 
+#      - title: itembase Go Api
 #        icon: 🏬
 #        link: "https://github.com/saasbuilders/itembase"
 #        description: "A Go (golang) REST client library for the itembase API"
 
 contributions:
-    title: Otras contribuciones y proyectos
-    intro: >
-      Proyectos en los que he contribuido a lo largo de los años
+  title: Otras contribuciones y proyectos
+  intro: >
+    Proyectos en los que he contribuido a lo largo de los años
 
-    assignments:
-      - title: Universal Bypass
-        icon: ⚡
-        link: https://github.com/timmyrs/Universal-Bypass
-        description: <i>Contribución</i> al paquete en la traducción en español de Universal Bypass.
-      
-      - title: MX Player
-        icon: 🎬
-        link: https://sites.google.com/site/mxvpen/
-        description: <i>Contribución</i> al paquete en la traducción en español de MX Player.
-      
-      - title: HeidiSQL
-        icon: <i class="fas fa-database"></i>
-        link: https://www.transifex.com/david.proweb/teams/12545/es/
-        description: <i>Contribución</i> al paquete en la traducción en español de HeidiSQL.
-      
-      - title: edX platform
-        icon: 📖
-        link: https://www.transifex.com/open-edx/teams/6205/es_419/
-        description: <i>Contribución</i> al paquete en la traducción en español de edX plataform.
+  assignments:
+    - title: Universal Bypass
+      icon: ⚡
+      link: https://github.com/timmyrs/Universal-Bypass
+      description: <i>Contribución</i> al paquete en la traducción en español de Universal Bypass.
+
+    - title: MX Player
+      icon: 🎬
+      link: https://sites.google.com/site/mxvpen/
+      description: <i>Contribución</i> al paquete en la traducción en español de MX Player.
+
+    - title: HeidiSQL
+      icon: <i class="fas fa-database"></i>
+      link: https://www.transifex.com/david.proweb/teams/12545/es/
+      description: <i>Contribución</i> al paquete en la traducción en español de HeidiSQL.
+
+    - title: edX platform
+      icon: 📖
+      link: https://www.transifex.com/open-edx/teams/6205/es_419/
+      description: <i>Contribución</i> al paquete en la traducción en español de edX plataform.
 
 publications:
-     title: Publications
-     intro: |
-       You can list your publications in this section. Lorem ipsum dolor sit
-       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-       bibendum fringilla a eu lectus.
+  title: Publications
+  intro: |
+    You can list your publications in this section. Lorem ipsum dolor sit
+    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    bibendum fringilla a eu lectus.
 
-     papers:
-       - title: Ensayo "¿Cómo se escucha el silencio?" (Edición en Lengua de Señas Colombiana con subtitulada en Español)
-         authors: Andrés García, Madeleine Mendivil (Traductora al subtítulos )
-         link: http://bit.ly/EnsayoComoSeEscuchaElSilencio
+  papers:
+    - title: Ensayo "¿Cómo se escucha el silencio?" (Edición en Lengua de Señas Colombiana con subtitulada en Español)
+      authors: Andrés García, Madeleine Mendivil (Traductora al subtítulos )
+      link: http://bit.ly/EnsayoComoSeEscuchaElSilencio
 
-     # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-     #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-     #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-     # - title: A syntax directed compiler for Algol 60
-     #   authors: Edgar T. Irons
-     #   conference: "Comm. ACM 4 (1961), 51–55"
+  # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+  #   authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+  #   conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  # - title: A syntax directed compiler for Algol 60
+  #   authors: Edgar T. Irons
+  #   conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: 🐘 PHP
-        level: 50%
+  toolset:
+    - name: 🐘 PHP
+      level: 50%
 
-      - name: 🐿 HTML5 & CSS
-        level: 60%
+    - name: 🐿 HTML5 & CSS
+      level: 60%
 
-      - name: ☕ Java
-        level: 15%
+    - name: ☕ Java
+      level: 15%
 
-      - name: 🐲 C#
-        level: 20%
+    - name: 🐲 C#
+      level: 20%
 
-      - name: ⚡JavaScript
-        level: 60%
+    - name: ⚡JavaScript
+      level: 60%
 
-      - name: 🐳 Docker
-        level: 95%
+    - name: 🐳 Docker
+      level: 95%
 
-      - name: 🐳 Docker
-        level: 95%
+    - name: 🐳 Docker
+      level: 95%
 
-      - name: 🐳 Docker
-        level: 95%
+    - name: 🐳 Docker
+      level: 95%
 
-      - name: 🐢 node.js
-        level: 95%
+    - name: 🐢 node.js
+      level: 95%
 
-      - name: 🔥 Firebase
-        level: 95%
+    - name: 🔥 Firebase
+      level: 95%
 
-      - name: 🐗 Angular
-        level: 90%
+    - name: 🐗 Angular
+      level: 90%
 
-      - name: 🐬 MySQL
-        level: 90%
+    - name: 🐬 MySQL
+      level: 90%
 
-      - name: 🔸 Haxe
-        level: 90%
+    - name: 🔸 Haxe
+      level: 90%
 
-      - name: ⚡ SWF Bytecode
-        level: 80%
+    - name: ⚡ SWF Bytecode
+      level: 80%
 
-      - name: 🐀 Go
-        level: 75%
+    - name: 🐀 Go
+      level: 75%
 
 footer: >
-    tomó 2 días para hacer <i class="fas fa-heart"></i> en Bogotá D.C. y toda una vida para llenar
-    Este CV es <a href="https://github.com/andgar2010/cv-andgar2010">Código libre</a>
+  tomó 2 días para hacer <i class="fas fa-heart"></i> en Bogotá D.C. y toda una vida para llenar
+  Este CV es <a href="https://github.com/andgar2010/cv-andgar2010">Código libre</a>
