@@ -78,18 +78,20 @@ career-profile:
     - Compromiso ético
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Tecnólogo de Análisis y Desarrollo en Sistema de Información
+    university: Servicio Nacional de Aprendizaje - SENA
+    time: 2017 - 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      Desarrollo de software (análisis, diseño, implementación, pruebas y ajustes), Competencias:
+        • Especificar los requisitos necesarios para desarrollar el sistema de información de acuerdo con las necesidades del cliente.
+        • Construir el sistema que cumpla con los requisitos de la solución
+        • Participar en el proceso de negociación de tecnología informática para permitir la implementación del sistema de información.
+        • Analizar los requisitos del cliente para construir el sistema de información.
+        • Diseñar el sistema de acuerdo con los requisitos del cliente.
+        • Implantar la solución que cumpla con los requisitos para su operación.
+        • Aplicar buenas prácticas de calidad en el proceso de desarrollo de software, de acuerdo con el referente adoptado en la empresa
 
-        - Bullet point
-        - Bullet point
+      ➢ Competidor en habilidad de Desarrollo de Aplicaciones Web, SENASoft 2018.
 
   - degree: BSc in Applied Mathematics
     university: Bristol University
