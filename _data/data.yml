@@ -93,19 +93,6 @@ education:
 
       ➢ Competidor en habilidad de Desarrollo de Aplicaciones Web, SENASoft 2018.
 
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-
-        - Bullet point
-        - Bullet point
-
 highlights:
   - slug: innlab
     role: Desarrollador de aplicaciones.
@@ -158,56 +145,37 @@ highlights:
       - image: bits.jpg
       - image: pitchxo-event1.jpg
       - image: pitchxo-event2.jpg
-  - slug: sena
-    role: Analista/Desarrollador Software (Pasantía).
-    time: Jul. 2018 – Feb. 2019
-    company: 📈 SENA Centro Electricidad, Electrónica y Telecomunicaciones – Regional Distrito Capital., 🇨🇴 Bogotá D.C., Colombia
+
+  - slug: precampus2019
+    role: Competidor Precampus party 2019.
+    time: Jun. 2019
+    company: 📈 Banco Davivienda, 🇨🇴 Bogotá D.C., Colombia
     details: |
-      Proyecto: SCHEDUS - Sistema de organización y asignación de horario en Sena CEET.
+      Trabajo en el equipo para desarrollar un aplicación móvil híbrido durante competencia evento pre campus Party 2019.
+      El proyecto que nuestro equipo desarrollamos un App móvil basada Quasar y Firebase para población Generación Z y Millennials.
 
-          - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB.
+      Proyecto: EXPERIMENTA DAVIVIENDA - Mobile social networking application.
+        - Trabajé en el equipo para desarrollar sistema de organización y asignación de horario para que los funcionarios SENA manejen asignación de horarios a los instructores y los aprendices la búsqueda de horarios por ficha utilizando una interfaz basada en front-end CoreUI-Bootstrap 4, JQuery AJAX y un back-end PHP MVC/MariaDB.
 
-          - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.
+        - Análisis, diseño y construcción de base de datos para sistema de organización y asignación de horario con perfiles de usuarios.
 
-        Tecnologías:
+        - Análisis, diseño y construcción de aplicación móvil.
 
-        - 👨‍💼 Equipo de 2 desarrolladores + open source devs
-        - 🐳 Docker
-        - 🔬 Microservices
-        - 🔥 Firebase
-        - 🔸 Haxe
-        - 🍏 Objective C
-        - ☕️ Java
-        - ☁️ AWS CodeBuild, Batch, CodePipeline, Lambda
-        - ⚡ SWF Transpilation
+      Tecnologías:
+        - 👨‍💼 Equipo de 2 desarrolladores + Diseñador + Master project
+        - Framework Quasar
         - 🐿 HTML5 / Webpack
-        - 📱 Mobile Targets
-        - 🐘 PHP
-        - Apache,
-        - MariaDB,
-        - 🐘 PHP  MVC/API,
         - JavaScript,
-        - jQuery,
-        - CoreUI,
-        - Bootstrap 4,
-        - Node.js,
-        - Yarn,
-        - Composer,
-        - Unit Testing,
-        - Browser Testing,
-        - Web Design,
-        - Katalon,
-        - Git,
-        - PHPMailer,
-        - DataTables
-        - 🐢 node.js
-        Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
+        - Vue.js
+        - Adobe XD
+        - 🔥 Firebase
+        - 🐢 Node.js
+
+      Logros: ✔ Destreza en desarrollo de aplicaciones web como solución a problemas de la organización.
+
     gallery:
-      - image: pitchxo.jpg
-      - image: pitchxo2.jpg
-      - image: bits.jpg
-      - image: pitchxo-event1.jpg
-      - image: pitchxo-event2.jpg
+      - image: team_precampus2019.jpg
+
   - slug: sena
     role: Analista/Desarrollador Software (Pasantía).
     time: Jul. 2018 – Feb. 2019
